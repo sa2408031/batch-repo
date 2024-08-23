@@ -8,7 +8,8 @@ This intensive, hands-on training program is designed to equip professionals wit
 📁 Repository Structure
 Here's how the repository is organized:
 
-![Screen Shot 23-08-2024 at 22 26](https://github.com/user-attachments/assets/e2cb8b21-4b97-474c-8a21-a7461f4a7d9b)
+![Screen Shot 23-08-2024 at 22 31](https://github.com/user-attachments/assets/fc4b0e75-51a9-4622-8ec7-5e48cf5d7ecc)
+
 
 📚 Resources
 
