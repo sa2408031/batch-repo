@@ -4,6 +4,10 @@ Welcome to the  DevOps & Cloud Expert Interview Prep Program  repository! This r
    
 📝 Overview
 This intensive, hands-on training program is designed to equip professionals with the latest Cloud and DevOps skills. It focuses on real-world applications, ensuring participants can immediately apply what they learn. Additionally, it prepares you for interviews targeting top MNCs in the Cloud and DevOps industry.
+📁 Repository Structure
+Here's how the repository is organized:
+
+![Screen Shot 23-08-2024 at 22 26](https://github.com/user-attachments/assets/e2cb8b21-4b97-474c-8a21-a7461f4a7d9b)
 
 📚 Resources
 
